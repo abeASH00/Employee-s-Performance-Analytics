@@ -4,7 +4,7 @@
 Hi, I'm Syahin, an aspiring Data Analyst passionate about HR analytics and business insights.
 
 ## 📌 Project Overview
-This project analyzes employee performance data using SQL, Python, and Power BI to uncover factors that influence productivity, engagement, and retention.
+This project analyzes employee performance data using SQL, and Power BI to test my skills on it. 
 
 ## 📂 Project Files
 | File                      | Description                          |
@@ -23,10 +23,11 @@ This project analyzes employee performance data using SQL, Python, and Power BI 
 
 ## 🚀 Tools Used
 - MySQL
-- Python (Pandas, Matplotlib, Seaborn)
 - Power BI
 - GitHub
 
 ## 📈 Future Work
 - Predict turnover risk using classification models
 - Integrate dynamic filters and slicers in Power BI
+- 
+![Dashboard](https://github.com/user-attachments/assets/7e82f08f-cc55-41af-a539-b24d584bc5c0)
